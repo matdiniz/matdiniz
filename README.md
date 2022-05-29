@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @matdiniz
-- 👀 I’m interested in Python Learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SAP ABAP
+- 💞️ I’m looking to collaborate on SAP and Visual Basic for Aplications
+- 📫 How to reach me mdmo1998@gmail.com
 
 <!---
 matdiniz/matdiniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
