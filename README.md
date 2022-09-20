@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matdiniz
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SAP ABAP
-- 💞️ I’m looking to collaborate on SAP and Visual Basic for Aplications
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python and C++ development
 - 📫 How to reach me mdmo1998@gmail.com
 
 <!---
